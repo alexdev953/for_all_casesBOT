@@ -1,0 +1,9 @@
+psycopg2~=2.8.5
+requests~=2.22.0
+pyowm~=2.10.0
+selenium~=3.141.0
+beautifulsoup4~=4.9.0
+pytube3
+ffmpeg-python
+aiogram~=2.9.2
+eyeD3~=0.9.5
